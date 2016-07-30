@@ -1,6 +1,7 @@
 # FTC ELO
 
-Calculate ELO rankings based on match_data files generated, presumably, by the FCS.
+Calculate ELO rankings based on match_data files generated,
+presumably, by the FTC scoring system.
 
 ## How we're calcuating ELO
 
